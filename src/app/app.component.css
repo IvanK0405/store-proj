@@ -1,3 +1,7 @@
 #main {
-  background-image: url(../assets/images/bg-light.jpeg);
+  background-image: url(../assets/images/bgl2.png);
+}
+
+.pages {
+  @apply text-slate-500 font-mono cursor-pointer;
 }
